@@ -40,7 +40,7 @@ Exemplo de Codigo Gerado Apenas funções por enquanto:
 
     save(user: any){    
         return new Promisse((resolve, reject) =>  {
-            let url = this.urlAPI + 'users?' + 'id'
+            let url = this.urlAPI + 'users?'
 
             this.http.post(url, user)
                 .subscribe((result:any) => {
