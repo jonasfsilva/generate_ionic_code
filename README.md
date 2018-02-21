@@ -4,7 +4,7 @@ Gerador de codigo Ionic em Python
 
 Exemplo de Codigo Gerado Apenas funções por enquanto:
 
-"""
+'''
 getAll(){
     return new Promisse((resolve, reject) =>  {
 
@@ -67,6 +67,4 @@ update(user: any){
             })
     });
 }
-
-"""
-
+'''
