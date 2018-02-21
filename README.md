@@ -1,5 +1,5 @@
 # generate_ionic_code
-Gerador de codigo Ionic em Python
+Gerador de codigo para providers do Ionic 3, feito em Python
 
 
 Exemplo de Codigo Gerado Apenas funções por enquanto:
